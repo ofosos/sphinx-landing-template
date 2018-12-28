@@ -22,6 +22,8 @@ You need to do the following:
 
 That's all. The code in `source` demonstrates how to do this.
 
+This template's output is available at: https://sphinx-landing-template.readthedocs.io/en/latest/
+
 # Copyright
 
 Copyright (c) 2018, Mark Meyer (mark@ofosos.org)
